@@ -13,6 +13,7 @@
 
 - [53. Maximum Subarray][5]
 - [1186. Maximum Subarray Sum with One Deletion][28]
+- [1191. K-Concatenation Maximum Sum][29]
 
 ## Modulo 10^9+7
 
@@ -43,6 +44,7 @@ BTW, 已经对这个数字有 PTSD 了.
 
 - [823. Binary Trees With Factors][22]
 - [935. Knight Dialer][24]
+- [1191. K-Concatenation Maximum Sum][29]
 
 [1]: ../solutions/5.longest-palindromic-substring.md
 [2]: ../solutions/22.generate-parentheses.md
@@ -72,3 +74,4 @@ BTW, 已经对这个数字有 PTSD 了.
 [26]: ../solutions/84.largest-rectanglein-histogram.md
 [27]: ../solutions/1024.video-stitching.md
 [28]: ../solutions/1186.maximum-subarray-sum-with-one-deletion.md
+[29]: ../solutions/1191.k-concatenation-maximum-sum.md
