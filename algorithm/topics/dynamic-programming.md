@@ -9,6 +9,11 @@
 - [309. Best Time to Buy and Sell Stock with Cooldown][12]
 - [714. Best Time to Buy and Sell Stock with Transaction Fee][13]
 
+## Maximum subarray problem
+
+- [53. Maximum Subarray][5]
+- [1186. Maximum Subarray Sum with One Deletion][28]
+
 ## Modulo 10^9+7
 
 ~~你TM长点心吧, 是 modulo 不是 module !!!~~
@@ -66,3 +71,4 @@ BTW, 已经对这个数字有 PTSD 了.
 [25]: ../solutions/983.minimum-cost-for-tickets.md
 [26]: ../solutions/84.largest-rectanglein-histogram.md
 [27]: ../solutions/1024.video-stitching.md
+[28]: ../solutions/1186.maximum-subarray-sum-with-one-deletion.md
