@@ -75,3 +75,5 @@ BTW, 已经对这个数字有 PTSD 了.
 [27]: ../solutions/1024.video-stitching.md
 [28]: ../solutions/1186.maximum-subarray-sum-with-one-deletion.md
 [29]: ../solutions/1191.k-concatenation-maximum-sum.md
+[30]: ../solutions/1218.longest-arithmetic-subsequence-of-given-difference.md
+[31]: ../solutions/1220.count-vowels-permutation.md
