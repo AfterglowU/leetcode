@@ -26,7 +26,7 @@ Leetcode 上有好几道题目都因为结果过大, 超出整数表示范围, �
 ```nohighlight
 /* Both A and B are in [0, 1000000007] */
 
-int Adder (int A, int B) {
+int adder (int A, int B) {
     return (A + B) % 100000007;
 }
 
@@ -77,3 +77,4 @@ BTW, 已经对这个数字有 PTSD 了.
 [29]: ../solutions/1191.k-concatenation-maximum-sum.md
 [30]: ../solutions/1218.longest-arithmetic-subsequence-of-given-difference.md
 [31]: ../solutions/1220.count-vowels-permutation.md
+[32]: ../solutions/140.word-break-ii.md
