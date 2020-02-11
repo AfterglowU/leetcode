@@ -78,3 +78,4 @@ BTW, 已经对这个数字有 PTSD 了.
 [30]: ../solutions/1218.longest-arithmetic-subsequence-of-given-difference.md
 [31]: ../solutions/1220.count-vowels-permutation.md
 [32]: ../solutions/140.word-break-ii.md
+[33]: ../solutions/1130.minimum-cost-tree-from-leaf-values.md
