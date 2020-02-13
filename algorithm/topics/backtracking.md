@@ -1,5 +1,5 @@
 # Topic: Backtracking
 
-[1]: ../solutions/37.sudoku-solver.md
-[2]: ../solutions/46.permutations.md[3]
-[3]: ../solutions/140.word-break-ii.md
+[37]: ../solutions/37.sudoku-solver.md
+[46]: ../solutions/46.permutations.md
+[140]: ../solutions/140.word-break-ii.md
