@@ -2,13 +2,20 @@
 
 ## Index
 
-- [Problem](#problem)
-  - [Link](#Link)
-  - [Description and Examlpe](#description-and-examlpe)
-  - [Relation](#relation)
-- Solutions
+- [xxx. xxxxx](#xxx-xxxxx)
+  - [Index](#index)
+  - [Problem](#problem)
+    - [Link](#link)
+    - [Description and Examlpe](#description-and-examlpe)
+    - [Relation](#relation)
   - [Solution1: xxx](#solution1-xxx)
+    - [Idea](#idea)
+    - [Complexity](#complexity)
+    - [Code](#code)
   - [Solution2: xxx](#solution2-xxx)
+    - [Idea](#idea-1)
+    - [Complexity](#complexity-1)
+    - [Code](#code-1)
 
 ----
 
