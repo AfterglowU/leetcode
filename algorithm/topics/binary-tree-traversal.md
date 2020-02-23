@@ -32,6 +32,7 @@
 
 - [102. Binary Tree Level Order Traversal][102]
 - [103. Binary Tree Zigzag Level Order Traversal][103]
+- [101. Symmetric Tree][101]
 
 而在复杂一点的 BFS 问题中则将二叉树视为无向图, 即一个节点与其父节点之间也有边:
 
@@ -142,6 +143,7 @@
         P.S. 若以链表代替数组存储 `levelorder`, 则空间复杂度可以降至 $O(N)$.
 
 [94]: ../solutions/94.binary-tree-inorder-traversal.md
+[101]: ../solutions/101.symmetric-tree.md
 [102]: ../solutions/102.binary-tree-level-order-traversal.md
 [103]: ../solutions/103.binary-tree-zigzag-level-order-traversal.md
 [105]: ../solutions/105.construct-binary-tree-from-preorder-and-inorder-traversal.md
